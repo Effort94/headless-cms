@@ -23,7 +23,6 @@ Thumbs.db
 .env.*
 
 # Build output (Vite)
-frontend/dist/
 /backend/vendor/composer
 /backend/wp-admin
 /backend/wp-content/plugins
