@@ -1,0 +1,15 @@
+{
+    "name": "warren/backend",
+    "autoload": {
+        "psr-4": {
+            "Warren\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Effort94",
+            "email": "wdavey713@outlook.com"
+        }
+    ],
+    "require": {}
+}

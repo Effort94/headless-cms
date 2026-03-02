@@ -26,3 +26,7 @@ Thumbs.db
 frontend/dist/
 /backend/vendor/composer
 /backend/wp-admin
+/backend/wp-content/plugins
+/backend/wp-content/themes/twentytwentyfour
+/backend/wp-content/themes/twentytwentyfive
+/backend/wp-content/themes/twentytwentythree
