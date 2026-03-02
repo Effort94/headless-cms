@@ -28,3 +28,5 @@ Thumbs.db
 /backend/wp-content/themes/twentytwentyfour
 /backend/wp-content/themes/twentytwentyfive
 /backend/wp-content/themes/twentytwentythree
+/frontend/.next
+/frontend/node_modules
