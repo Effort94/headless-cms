@@ -6,7 +6,6 @@ backend/wp-includes/
 backend/vendor/
 
 # Node dependencies
-frontend/node_modules/
 
 # IDE files
 .idea/
