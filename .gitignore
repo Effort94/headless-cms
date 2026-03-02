@@ -1,0 +1,28 @@
+# WordPress core (if installed in /backend)
+backend/wp-admin/
+backend/wp-includes/
+
+# Composer dependencies
+backend/vendor/
+
+# Node dependencies
+frontend/node_modules/
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Build output (Vite)
+frontend/dist/
+/backend/vendor/composer
+/backend/wp-admin
